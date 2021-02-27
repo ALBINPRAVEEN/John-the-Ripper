@@ -1,10 +1,4 @@
-[![Build Status](https://travis-ci.com/magnumripper/JohnTheRipper.svg?branch=bleeding-jumbo)](https://travis-ci.com/magnumripper/JohnTheRipper)
-[![Circle CI](https://circleci.com/gh/magnumripper/JohnTheRipper/tree/bleeding-jumbo.svg?style=shield)](https://circleci.com/gh/magnumripper/JohnTheRipper/tree/bleeding-jumbo)
-[![Downloads](https://img.shields.io/badge/Download-Windows%20Build-blue.svg)](https://github.com/claudioandre-br/JohnTheRipper/releases/tag/jumbo-dev)
-[![License](https://img.shields.io/badge/License-GPL%20v2%2B-blue.svg)](https://github.com/magnumripper/JohnTheRipper/blob/bleeding-jumbo/doc/LICENSE)
-[![LoC](https://tokei.rs/b1/github/magnumripper/JohnTheRipper?category=code)](https://github.com/magnumripper/JohnTheRipper/tree/bleeding-jumbo)
-[![Contributors](https://img.shields.io/github/contributors/magnumripper/JohnTheRipper.svg?label=Contributors)](https://github.com/magnumripper/JohnTheRipper/graphs/contributors)
-[![Search hit](https://img.shields.io/github/search/magnumripper/JohnTheRipper/goto.svg?label=GitHub%20Hits)](https://github.com/search?utf8=%E2%9C%93&q=john%20the%20ripper&type=)
+
 
 John the Ripper
 ===============
@@ -139,7 +133,7 @@ https://openwall.info/wiki/john/johnny
 For Kali-Linux
 
 ###
-### git clone https://github.com/keralahacker/John-the-Ripper.git
+### git clone https://github.com/ALBINPRAVEEN/John-the-Ripper.git
 ###
 ###
 
@@ -148,16 +142,11 @@ For ANDROID
 ### Install TERUMX ==> https://play.google.com/store/apps/details?id=com.termux
 Dwonload&Install
 
-### git clone https://github.com/keralahacker/John-the-Ripper.git
+### git clone https://github.com/ALBINPRAVEEN/John-the-Ripper.git
 ###
 ###
 ###
 ###
-YouTube channel
-### https://www.youtube.com/channel/UCBshYeasyhn3COZHtAe9yNg
-
-Video Tutorial
-will be updated soon.........!!!!!!!!!!
 
 ###-----------------------------------------------------||
 
