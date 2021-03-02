@@ -3,12 +3,12 @@ echo""
 echo""
 echo""
 echo -e '\e[96m                 +-+-+-+-+ +-+-+-+-+ +-+-+-+-+-+'
-echo -e '\e[96m                 |H|a|c|k| |w|i|t|h| |V|Y|S|H|U|'
+echo -e '\e[96m                 |H|a|c|k| |w|i|t|h| |A|L|B|Y|'
 echo -e '\e[96m                 +-+-+-+-+ +-+-+-+-+ +-+-+-+-+-+'
 echo -e '\e[36m              --------------------------------------'
-echo -e '\e[32m              || Script By     =>\e[96  Hack with Vyshu  ||'
-echo -e '\e[32m              || instagram     =>\e[96  hack_wityh_vyshu ||'
-echo -e '\e[32m              || github        =>\e[96  keralahacker     ||'
+echo -e '\e[32m              || Script By     =>\e[96  ALBY  ||'
+echo -e '\e[32m              || instagram     =>\e[96  @i_am_albin_praveen ||'
+echo -e '\e[32m              || github        =>\e[96  albinpraveen     ||'
 echo -e '\e[36m              --------------------------------------'
 sleep 5
 clear
